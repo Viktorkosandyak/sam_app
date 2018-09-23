@@ -35,7 +35,7 @@ group :test do
   gem 'guard-minitest',     '2.3.1'
 end
 
-group :development, :test do
+group :development do
   gem 'byebug'
   
   gem 'sqlite3'
