@@ -1,0 +1,2 @@
+      invoke  active_record
+      create    db/migrate/20181023211434_add_remember_digest_to_users.rb
